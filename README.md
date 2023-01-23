@@ -1,4 +1,8 @@
 # GitHub Codespaces ♥️ Next.js
+<code apt al 
+   'accepts as modal 2
+   Olyphiri al activated
+<command demobilised^
 
 Welcome to your shiny new Codespace running Next.js! We've got everything fired up and running for you to explore Next.js.
 
